@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+}
+body {
+    background-color: grey;
+}
+.main {
+    max-width: 700px;
+    margin: 50px auto;
+}
